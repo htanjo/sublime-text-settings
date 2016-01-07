@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"font_face": "Ricty",
+	"font_size": 15.0,
+	"highlight_line": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"show_line_endings": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"word_wrap": false
+}
