@@ -5,6 +5,10 @@
 	"font_face": "Ricty",
 	"font_size": 15.0,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"show_line_endings": true,
