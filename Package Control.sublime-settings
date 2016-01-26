@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Codecs33",
+		"ConvertToUTF8",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Sublimerge Pro",
+		"Theme - Flatland"
+	]
+}
