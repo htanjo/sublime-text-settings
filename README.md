@@ -2,6 +2,7 @@
 > My personal settings for Sublime Text 3.
 
 ## Path to setting files
+Sublime Text -> Preferences -> Browse Packages...
 
 ### OS X
 ```
