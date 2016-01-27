@@ -11,6 +11,7 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"show_encoding": true,
 	"show_line_endings": true,
 	"theme": "Flatland Dark.sublime-theme",
 	"word_wrap": false
